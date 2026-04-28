@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "media-buying-academy-seo",
+  "owner": {
+    "name": "Abderrahim KHALID (MEDIA BUYING ACADEMY)"
+  },
+  "metadata": {
+    "description": "SEO Blogger Toolkit - 15 skills pour blogueurs WordPress"
+  },
+  "plugins": [
+    {
+      "name": "claude-seo",
+      "source": "./",
+      "description": "SEO Blogger Toolkit pour Claude Code. 15 skills couvrant l'audit WordPress, la redaction d'articles SEO, la publication, les topic clusters, l'analyse E-E-A-T, le schema markup, et l'optimisation pour les IA (GEO)."
+    }
+  ]
+}

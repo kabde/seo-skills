@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: SEO Blogger Toolkit
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Abderrahim
+    family-names: KHALID
+    affiliation: MEDIA BUYING ACADEMY
+license: MIT
+version: 1.0.0
+date-released: '2026-04-23'
+keywords:
+  - seo
+  - wordpress
+  - blogging
+  - claude-code
+  - ai-search
+  - content-strategy
+  - topic-clusters
+  - e-e-a-t
+  - schema-markup
+  - geo

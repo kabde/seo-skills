@@ -1,0 +1,13 @@
+[project]
+name = "seo-blogger-toolkit"
+version = "1.0.0"
+description = "SEO Blogger Toolkit for Claude Code - 15 skills for WordPress blogging"
+requires-python = ">=3.10"
+license = "MIT"
+readme = "README.md"
+authors = [
+    { name = "Abderrahim KHALID", email = "" },
+]
+
+[project.urls]
+Homepage = "https://mediabuying.ac/"

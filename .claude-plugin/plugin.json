@@ -1,0 +1,33 @@
+{
+  "name": "claude-seo",
+  "version": "1.0.0",
+  "description": "SEO blogger toolkit for Claude Code. 15 skills covering WordPress blog audit via REST API, AI-assisted article writing and publishing, topic clustering, content strategy, E-E-A-T content quality, schema markup, image optimization, technical SEO, and AI search optimization (GEO) for WordPress blogging.",
+  "author": {
+    "name": "Abderrahim KHALID (MEDIA BUYING ACADEMY)",
+    "url": "https://mediabuying.ac/"
+  },
+  "license": "MIT",
+  "homepage": "https://mediabuying.ac/",
+  "keywords": [
+    "seo",
+    "wordpress",
+    "blogging",
+    "technical-seo",
+    "content-quality",
+    "e-e-a-t",
+    "schema-markup",
+    "core-web-vitals",
+    "geo",
+    "ai-search",
+    "image-optimization",
+    "google-search-console",
+    "pagespeed",
+    "semantic-clustering",
+    "topic-clusters",
+    "content-strategy",
+    "article-writing",
+    "llms-txt",
+    "claude-code",
+    "rest-api"
+  ]
+}
